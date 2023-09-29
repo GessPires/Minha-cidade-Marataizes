@@ -1,0 +1,15 @@
+/* CSS HEX */
+:root {
+--liver: #664c43ff;
+--cordovan: #873d48ff;
+--rose-pompadour: #dc758fff;
+--pale-purple: #e3d3e4ff;
+--aquamarine: #00ffcdff;
+
+}
+
+body {
+  background: pink url("tree-bark.png") repeat fixed;
+  background-size: 800px;
+  background-attachment: 80px;
+}
